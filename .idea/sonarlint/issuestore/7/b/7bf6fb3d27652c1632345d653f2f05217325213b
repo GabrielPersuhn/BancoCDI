@@ -1,0 +1,34 @@
+
+J
+java:S6212+"/Declare this local variable with "var" instead.(ğÛ²¸øÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(åóõ™
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(…ß…İıÿÿÿÿ
+f	java:S1289"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+f	java:S1287"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S1285"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(©ÏÆ
+V	java:S125F"<This block of commented-out lines of code should be removed.(Ê¿€Œûÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¦«‰ùÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(õêÂ“ÿÿÿÿÿ
+J
+java:S6212e"/Declare this local variable with "var" instead.(ğÛ²¸øÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.( ø×
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(ã†ş”
+J
+java:S6212r"/Declare this local variable with "var" instead.(Úî¿òøÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(¸ºùùÿÿÿÿ
+f	java:S128z"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(®™şº
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¬&
+=	java:S131•""Add a default case to this switch.(ş¥ñÈûÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ÚüÖù
+K
+java:S6212­"/Declare this local variable with "var" instead.(Úî¿òøÿÿÿÿ
+F
+java:S6212®"/Declare this local variable with "var" instead.(øÜ‹Ô
+g	java:S128¶"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+>
+java:S1125²"'Remove the unnecessary boolean literal.(€¾ÊÜ
+>
+java:S1125·"'Remove the unnecessary boolean literal.(©¦ÊÈ
+N	java:S106»"9Replace this use of System.out or System.err by a logger.(â¦–j

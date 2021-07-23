@@ -1,0 +1,19 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª´­ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—£»ð
+J
+java:S6212 "/Declare this local variable with "var" instead.(¼ ´çÿÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(®™þº
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ùšè­üÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ö Îûøÿÿÿÿ
+J
+java:S6212<"/Declare this local variable with "var" instead.(¿‚¼úüÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Â“ò®ÿÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(þ¦ÐÏ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(À›Ü
+E
+java:S6212R"/Declare this local variable with "var" instead.(‹µé¨
+E
+java:S1481E"*Remove this unused "senha" local variable.(…«¬„úÿÿÿÿ
+D
+java:S1481F".Remove this unused "tipoConta" local variable.(Ž•±
